@@ -16,7 +16,7 @@ python3 -m pip install --user --upgrade pynvim
 ## Install
 
 ```sh
-bash -c "`curl -fsSL https://raw.githubusercontent.com/QisonWYJ/dotfile/master/install.sh`"
+bash -c "`curl -fsSL https://raw.githubusercontent.com/QisonWYJ/dotfiles/master/install.sh`"
 ```
 
 ## Upgrade
